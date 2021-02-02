@@ -1,2 +1,2 @@
-# rec-sys-projs
+# Recommender ystem Pojects
 Recommender System Projects
