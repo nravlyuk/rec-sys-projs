@@ -1,2 +1,2 @@
-# Recommender ystem Pojects
+# Recommender System Projects
 Recommender System Projects
